@@ -1,0 +1,26 @@
+h1{
+    /* border: grosorLinea, estiloLinea, [opcional el color]*/
+    border: 10px double green;
+    /*Los estilos de linea : solid,dashed, dotted, double*/
+}
+p{
+    border-top: 10px solid green ;
+    border-bottom: 10px dotted orange;
+    border-left: 10px double yellow;
+    border-right: 10px dashed red;
+}
+h2{
+    border-top-width: 12px;
+    border-top-style: groove;
+    border-top-color: aqua;
+    border-bottom-width: 10px;
+    border-bottom-style: solid;
+    border-bottom-color: aquamarine ;
+    border-left-width: 5px;
+    border-left-style: dotted;
+    border-left-color: blueviolet;
+    border-right-width: 8px;
+    border-right-style: double ;
+    border-right-color: beige;
+}
+
